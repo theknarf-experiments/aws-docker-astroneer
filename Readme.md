@@ -23,4 +23,6 @@ sudo usermod -a -G docker $USER
 
 5. Clone this repo on the new machine
 
+6. Setup `.env` file based on [docker-astroneer-server](https://github.com/barumel/docker-astroneer-server/tree/develop)
+
 6. `docker compose up -d`

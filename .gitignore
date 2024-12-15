@@ -1,5 +1,6 @@
 *.pem
 /dns.json
+.env
 
 # Created by https://www.toptal.com/developers/gitignore/api/terraform,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=terraform,macos
